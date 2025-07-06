@@ -46,7 +46,6 @@
 <br>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybermage7&show_icons=true&locale=en&layout=compact" alt="cybermage7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybermage7&show_icons=true&locale=en" alt="cybermage7" /></p>
 
